@@ -1,5 +1,16 @@
 //your code here
 
+// var btn = document.getElementById('btn');
+// var numPTag = document.getElementById('num')
+
+// function generateRandomNo {
+// 	var num = Math.floor((Math.random()*20);
+// 	alert(num);
+// 	numPTag.textContent = num;
+// }
+
+// btn.addEventListener('click',generateRandomNo);
+
 var randomNum;
 var input;
 
